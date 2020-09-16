@@ -1,0 +1,9 @@
+Git readme
+made some changes
+<<<<<<< HEAD
+conflicting change made
+=======
+
+trouble from conflicts
+
+>>>>>>> bad-branch
