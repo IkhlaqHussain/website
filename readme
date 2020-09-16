@@ -1,3 +1,7 @@
 Git readme
 made some changes
+<<<<<<< HEAD
 conflicting change made
+=======
+
+>>>>>>> bad-branch
