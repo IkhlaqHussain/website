@@ -4,4 +4,4 @@ This is awesome
 
 Edit on example branch
 
-Editing on update-readme branch
+Updates made on master on Github before rebase
