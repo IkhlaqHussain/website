@@ -1,3 +1,4 @@
+
 # Website
 
 This is awesome
@@ -12,5 +13,10 @@ Some local edits to cause conflicts
 Some local edits to cause conflicts
 =======
 Just testing stuff
+
+##Purpose
+
+Show to use Git and Github together
+
 >>>>>>> 36e654e7297a2ddf9ad2542c32cd8c568de18077
 
